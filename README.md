@@ -34,6 +34,7 @@ This proyects uses multithreading and multiprocessing in order to achieve comuni
 |checksum.py/convert.py|
 |cell.py|
 |x80.py|
+
 *Note:please execute this file is the "main" of the project. 
 
 
