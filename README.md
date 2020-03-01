@@ -21,7 +21,20 @@ This proyects uses multithreading and multiprocessing in order to achieve comuni
 | Pyqt5 | 
 | Multiprocessing | 
 | thread| 
+### Files
 
+
+
+| File | 
+| ------ |
+|*  interfaz_pruebitaaaaaaaa.py |
+| movement.py| 
+| rotation.py|
+|udp.py|
+|checksum.py/convert.py|
+|cell.py|
+|x80.py|
+*Note:please execute this file is the "main" of the project. 
 
 
 
@@ -35,6 +48,12 @@ License
 ----
 
 Hector Vinicio Lopez Molinares , Jose Marin, Andres de la Ossa.
+
+
+
+
+
+
 
 
 
