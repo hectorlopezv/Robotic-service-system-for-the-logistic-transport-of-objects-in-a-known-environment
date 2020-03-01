@@ -1,0 +1,24 @@
+import heapq
+
+
+class PriorityQueue:
+
+    def __init__(self):
+        self.elements = []
+
+    def empty(self):
+        return len(self.elements) == 0
+
+    def put(self, item, priority):
+        heapq.heappush(self.elements, (priority, item))
+
+    def pop(self):
+        return heapq.heappop(self.elements)[1]
+
+    def __len__(self):
+        return len(self.elements)
+
+    def exists(self, item):
+
+        return item in (x[1] for x in self.elements)
+
