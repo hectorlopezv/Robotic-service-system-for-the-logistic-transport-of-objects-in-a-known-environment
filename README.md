@@ -44,7 +44,7 @@ This proyects uses multithreading and multiprocessing in order to achieve comuni
 
 
 ### Universidad DeL Norte - Colombia/Barranquilla.
-
+http://manglar.uninorte.edu.co/handle/10584/8790#page=1
 License
 ----
 
